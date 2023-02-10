@@ -14,10 +14,10 @@ git clone https://github.com/wandersonsc/recursion
 
 ```python
     def reverse(s):
-    if not string:
-        return string
-    else:
-        return reverse(string[1:]) + string[0]
+        if not string:
+            return string
+        else:
+            return reverse(string[1:]) + string[0]
 
 
 ```
