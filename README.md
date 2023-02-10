@@ -1,6 +1,6 @@
 ## Reverse a string using recursion in Python
 
-The following code defines a function rreverse that takes a string s as its argument and returns the reverse of the input string using recursion
+The following code defines a function rreverse that takes a string as its argument and returns the reverse of the input string using recursion
 
 ## Get the code.
 
