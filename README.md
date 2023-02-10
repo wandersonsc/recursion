@@ -24,7 +24,7 @@ git clone https://github.com/wandersonsc/recursion
 
 ## How it works
 
-1. The base case is when the input string is empty, in which case the function returns the empty `string, "".
+1. The base case is when the input string is empty, in which case the function returns the empty string, `""`.
 
 2. When the input string is not empty, the function returns the result of calling itself with the tail of the string (`string [1:]`) concatenated with the first character of the original string (`string[0]`).
    For example, if you call `reverse("hello")`, the function will make the following recursive calls:
